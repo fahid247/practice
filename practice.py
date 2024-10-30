@@ -8,3 +8,6 @@ def subtraction(a,b):
      return a-b
 sub = subtraction(10,5)
 print(sub)
+def multiplication(a,b):
+     return a*b
+print(multiplication(4,5))
